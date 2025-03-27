@@ -1,0 +1,26 @@
+# Archivos y carpetas de configuración local
+*.iml
+.gradle
+/local.properties
+
+# Configuración de Android Studio
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos generados por macOS (si trabajas en Mac)
+.DS_Store
+
+# Archivos de compilación de Android
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Archivos de Gradle generados
+.gradle
+/local.properties
